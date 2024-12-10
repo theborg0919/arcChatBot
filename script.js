@@ -119,5 +119,5 @@ document.addEventListener("DOMContentLoaded", () => {
         chatWindow.scrollTop = chatWindow.scrollHeight;
     }
 
-    addMessage("Hello! I'm your simple chatbot. Ask me something!", "bot");
+    addMessage("Hello! I'm Arc. Ask me something!", "bot");
 });
